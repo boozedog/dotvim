@@ -9,3 +9,4 @@ colorscheme molokai
 set gfn=Ubuntu\ Mono:h16
 set number
 set colorcolumn=80
+au BufRead,BufNewFile *.md set filetype=markdown
