@@ -8,3 +8,4 @@ nmap <F4> :w<CR>:make<CR>:cw<CR><CR>
 colorscheme molokai
 set gfn=Ubuntu\ Mono:h16
 set number
+set colorcolumn=80
