@@ -6,7 +6,7 @@ set directory=~/.vim/swap
 set undodir=~/.vim/undo
 nmap <F4> :w<CR>:make<CR>:cw<CR><CR>
 colorscheme molokai
-set gfn=Ubuntu\ Mono:h16
+set gfn=Ubuntu\ Mono\ 14
 set number
 set colorcolumn=80
 au BufRead,BufNewFile *.md set filetype=markdown
